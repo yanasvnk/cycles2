@@ -30,3 +30,4 @@ bin/
 /.idea/
 /out/
 /cycles 2.iml
+*.iml

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5a1254e-4975-4554-8695-058fd1ad966f" name="Changes" comment="Проверьте д/з">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5a1254e-4975-4554-8695-058fd1ad966f" name="Changes" comment="Проверьте д/з branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +55,7 @@
       <updated>1665517479226</updated>
       <workItem from="1665517481608" duration="6806000" />
       <workItem from="1665684080526" duration="10394000" />
-      <workItem from="1665943087971" duration="2835000" />
+      <workItem from="1665943087971" duration="3158000" />
     </task>
     <task id="LOCAL-00001" summary="Проверьте д/з">
       <created>1665695189873</created>
@@ -71,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665695189873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Проверьте д/з branch">
+      <created>1665946194593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665946194593</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Проверьте д/з branch">
+      <created>1665946261292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665946261292</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Проверьте д/з" />
-    <option name="LAST_COMMIT_MESSAGE" value="Проверьте д/з" />
+    <MESSAGE value="Проверьте д/з branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Проверьте д/з branch" />
   </component>
 </project>
